@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Piano Sound
+//  Xylophone Sound
 //
 //  Created by Yuda
 import UIKit
