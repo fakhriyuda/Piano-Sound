@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Piano Sound
+//  Xylophone Sound
 //
 //  Created by Yuda
 
